@@ -1,4 +1,4 @@
-# [AlphacodeLearing - Agency](https://mateencode.github.io/Alphacode-OfficalSite/)
+# [AlphacodeLearing](https://mateencode.github.io/Alphacode-OfficalSite/)
 
 The Offical AlphaCodeLearing landing site!
 
@@ -10,4 +10,4 @@ The Offical AlphaCodeLearing landing site!
 
 
 
-**[View Live Preview](https://mateencode.github.io/Alphacode-OfficalSite/)**
+**[View Live](https://mateencode.github.io/Alphacode-OfficalSite/)**
